@@ -1,0 +1,23 @@
+{
+  "name": "br.com.comunity.zatech",
+  "displayName": "ZaTech",
+  "version": "1.0.0",
+  "description": "Venha conhecer a comunidade da zatech, discuta sobre tecnologia no lugar certo, faça debates e muito mais.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^13.0.0"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
